@@ -1,0 +1,52 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1.125rem;
+  line-height: 1.6;
+  background-color: #fbf8f3;
+  color: rgb(40, 40, 50);
+}
+
+h1,
+h2 {
+  font-family: "Times New Roman", Times, serif;
+  colour: darkred;
+}
+
+header,
+footer {
+  text-align: centre;
+}
+
+header {
+  background-color: rgba(139, 0, 0, 0.1);
+}
+
+nav a {
+  color: darkred;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+main {
+  max-width: 32rem;
+}
+
+highlight {
+  font-weight: bold;
+  color: firebrick;
+}
+
+main ul .member {
+  color: dimgray;
+}
+
+.member {
+  font-weight: bold;
+  color: darkred;
+}
+
+footer {
+  background-color: #2b2b3a
+  color: #f5f0e6;
+  font-size: 0.9rem;
+}
