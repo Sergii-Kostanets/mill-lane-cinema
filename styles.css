@@ -9,12 +9,12 @@ body {
 h1,
 h2 {
   font-family: "Times New Roman", Times, serif;
-  colour: darkred;
+  color: darkred;
 }
 
 header,
 footer {
-  text-align: centre;
+  text-align: center;
 }
 
 header {
@@ -31,12 +31,12 @@ main {
   max-width: 32rem;
 }
 
-highlight {
+.highlight {
   font-weight: bold;
   color: firebrick;
 }
 
-main ul .member {
+main ul li {
   color: dimgray;
 }
 
@@ -46,7 +46,7 @@ main ul .member {
 }
 
 footer {
-  background-color: #2b2b3a
+  background-color: #2b2b3a;
   color: #f5f0e6;
   font-size: 0.9rem;
 }
